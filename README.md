@@ -3,9 +3,9 @@
 Shell script to test the performance of the most popular DNS resolvers from your location.
 
 Includes by default:
- * CloudFlare 1.1.1.1
- * Google 8.8.8.8
- * Quad9 9.9.9.9
+ * CloudFlare
+ * Google
+ * Quad9
  * OpenDNS
  * Norton
  * CleanBrowsing
@@ -13,6 +13,9 @@ Includes by default:
  * AdGuard
  * Neustar
  * Comodo
+ * Level 3
+ * SafeDNS 
+ * verisign 
 
 # Required 
 
